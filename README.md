@@ -22,7 +22,7 @@
 ### 1. NASA C-MAPSS RUL Prediction
 
 항공기 엔진 센서 데이터를 활용한 잔여수명(RUL, Remaining Useful Life) 예측 프로젝트입니다.  
-FD001~FD004 데이터셋을 대상으로 전처리, 시계열 윈도우 생성, 모델링, 성능 평가를 단독으로 수행했습니다.
+FD001~FD004 데이터셋을 대상으로 전처리, 시계열 윈도우 생성, 모델링, 성능 평가를 수행했습니다.
 
 **주요 내용**
 - LSTM, BiLSTM, Transformer 기반 RUL 예측 모델 실험
