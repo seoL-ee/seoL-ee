@@ -9,6 +9,14 @@
 
 정보통계학 전공심화 · 컴퓨터학 복수전공 · GPA 4.28 / 4.5
 
+## Certifications
+
+- SQLD
+- 정보처리기사 결과 확인 예정
+- 빅데이터분석기사 필기 합격
+
+---
+
 ## Projects
 
 ### 1. NASA C-MAPSS RUL Prediction
@@ -68,14 +76,6 @@ GitHub issue 기반으로 데이터셋 추가, fixture 작성, 테스트 코드 
 - Jupyter Notebook
 - Google Colab
 - VS Code
-
----
-
-## Certifications
-
-- SQLD
-- 정보처리기사 결과 확인 예정
-- 빅데이터분석기사 필기 합격
 
 ---
 
